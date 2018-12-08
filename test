@@ -1,0 +1,9 @@
+
+
+ERROR:
+fatal: could not create work tree dir 'testRepo': Permission denied
+
+cd ~/
+mkdir code
+cd code
+git clone https://github.com/kivy/kivy
